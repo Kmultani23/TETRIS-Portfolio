@@ -1,0 +1,39 @@
+.container {
+    display: flex;
+    justify-content: center;
+  }
+  
+  
+.grid {
+    width: 200px;
+    height: 400px;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: lightyellow;
+  }
+  
+.grid div {
+    height: 20px;
+    width: 20px;
+  }
+  
+.tetromino {
+    background-color: blue;
+  }
+  
+  
+ #start-button{
+    display: flex;
+    justify-content: center;
+    background-color: darkorange;
+ }
+
+ h3{
+     display: flex;
+     justify-content: center;
+ }
+
+ button{
+    display: flex;
+    justify-content: center;
+ } 
